@@ -1,0 +1,310 @@
+{
+  "id": "3624859",
+  "name": "krm",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10593832",
+      "name": "工具箱,辅助工具_jurassic",
+      "font_class": "jurassic_toolkit",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "2733967",
+      "name": "名称",
+      "font_class": "mingcheng",
+      "unicode": "e6ed",
+      "unicode_decimal": 59117
+    },
+    {
+      "icon_id": "11032209",
+      "name": "类型",
+      "font_class": "leixing",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "1305472",
+      "name": "任务",
+      "font_class": "renwu",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "16042464",
+      "name": "计划任务",
+      "font_class": "jihuarenwu",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "20104532",
+      "name": "任务管理",
+      "font_class": "renwuguanli",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "499164",
+      "name": "config",
+      "font_class": "config",
+      "unicode": "e916",
+      "unicode_decimal": 59670
+    },
+    {
+      "icon_id": "1305478",
+      "name": "申请权限",
+      "font_class": "shenqingquanxian",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "3717493",
+      "name": "存储服务",
+      "font_class": "cunchufuwu",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "5262062",
+      "name": "role_icon",
+      "font_class": "role_icon",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "5943263",
+      "name": "绑定",
+      "font_class": "bangding",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "6176555",
+      "name": "存储卷",
+      "font_class": "cunchujuan",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "7093244",
+      "name": "对象存储",
+      "font_class": "duixiangcunchu",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "10787205",
+      "name": "绑定",
+      "font_class": "bangding1",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "11494964",
+      "name": "绑定",
+      "font_class": "bangding2",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "14440232",
+      "name": "配置管理",
+      "font_class": "configuration-management",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "14629259",
+      "name": "secret",
+      "font_class": "secret",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "14887587",
+      "name": "ums-role",
+      "font_class": "ums-role",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "15550091",
+      "name": "bindrole",
+      "font_class": "bindrole",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "32015889",
+      "name": "system_role",
+      "font_class": "system_role",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "3828136",
+      "name": "域名解析",
+      "font_class": "yumingjiexi",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "4417793",
+      "name": "域名列表",
+      "font_class": "yumingliebiao",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "13723322",
+      "name": "domains",
+      "font_class": "domains",
+      "unicode": "e75e",
+      "unicode_decimal": 59230
+    },
+    {
+      "icon_id": "5583345",
+      "name": "容器服务 Container Servi",
+      "font_class": "rongqifuwuContainerServi",
+      "unicode": "e8a3",
+      "unicode_decimal": 59555
+    },
+    {
+      "icon_id": "20584671",
+      "name": "Status",
+      "font_class": "Status",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1305071",
+      "name": "内存",
+      "font_class": "neicun",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "7903681",
+      "name": "CPU",
+      "font_class": "CPU",
+      "unicode": "e72c",
+      "unicode_decimal": 59180
+    },
+    {
+      "icon_id": "15378529",
+      "name": "kubernetes",
+      "font_class": "kubernetes",
+      "unicode": "ebee",
+      "unicode_decimal": 60398
+    },
+    {
+      "icon_id": "1104521",
+      "name": "节点类_区域",
+      "font_class": "jiedianleiquyu",
+      "unicode": "e9d4",
+      "unicode_decimal": 59860
+    },
+    {
+      "icon_id": "3756733",
+      "name": "POD",
+      "font_class": "POD",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "5821107",
+      "name": "Space",
+      "font_class": "Space",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "5821120",
+      "name": "service",
+      "font_class": "service",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "21591069",
+      "name": "域名申请",
+      "font_class": "yumingshenqing",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "10043865",
+      "name": "Fold",
+      "font_class": "Fold",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "10043901",
+      "name": "UnFold",
+      "font_class": "UnFold",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "3559788",
+      "name": "弹性伸缩",
+      "font_class": "danxingshensuo",
+      "unicode": "e7df",
+      "unicode_decimal": 59359
+    },
+    {
+      "icon_id": "4766849",
+      "name": "deployment unit",
+      "font_class": "deploymentunit",
+      "unicode": "e7d2",
+      "unicode_decimal": 59346
+    },
+    {
+      "icon_id": "5766822",
+      "name": "调度",
+      "font_class": "tiaodu",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "12243745",
+      "name": "state",
+      "font_class": "state",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "26454326",
+      "name": "全部、所有-03",
+      "font_class": "a-quanbusuoyou-03",
+      "unicode": "e97b",
+      "unicode_decimal": 59771
+    },
+    {
+      "icon_id": "2076259",
+      "name": "列表",
+      "font_class": "liebiao",
+      "unicode": "e88f",
+      "unicode_decimal": 59535
+    },
+    {
+      "icon_id": "6308099",
+      "name": "Cluster-management",
+      "font_class": "Cluster-management",
+      "unicode": "e72a",
+      "unicode_decimal": 59178
+    },
+    {
+      "icon_id": "9870805",
+      "name": "集群管理",
+      "font_class": "jiqunguanli",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    }
+  ]
+}

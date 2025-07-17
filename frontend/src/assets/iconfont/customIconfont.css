@@ -1,0 +1,78 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3624859 */
+  src: url('iconfont.woff2?t=1669085603306') format('woff2'),
+       url('iconfont.woff?t=1669085603306') format('woff'),
+       url('iconfont.ttf?t=1669085603306') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Pod:before {
+  content: "\e620";
+}
+
+.icon-Namespace:before {
+  content: "\e66a";
+}
+
+.icon-Service:before {
+  content: "\e66d";
+}
+
+.icon-Ingress:before {
+  content: "\e69e";
+}
+
+.icon-Fold:before {
+  content: "\e627";
+}
+
+.icon-UnFold:before {
+  content: "\e62f";
+}
+
+.icon-danxingshensuo:before {
+  content: "\e7df";
+}
+
+.icon-Deployment:before {
+  content: "\e7d2";
+}
+
+.icon-tiaodu:before {
+  content: "\e6b4";
+}
+
+.icon-StatefulSet:before {
+  content: "\e626";
+}
+
+.icon-DaemonSet:before {
+  content: "\e97b";
+}
+
+.icon-jihuarenwu:before {
+  content: "\e613";
+}
+
+.icon-liebiao:before {
+  content: "\e88f";
+}
+
+.icon-Cluster-management:before {
+  content: "\e72a";
+}
+
+.icon-jiqunguanli:before {
+  content: "\e60c";
+}
+
+.icon-Node:before {
+  content: "\e9d4";
+}

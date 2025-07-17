@@ -1,0 +1,187 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3624859 */
+  src: url('iconfont.woff2?t=1675766008463') format('woff2'),
+       url('iconfont.woff?t=1675766008463') format('woff'),
+       url('iconfont.ttf?t=1675766008463') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-jurassic_toolkit:before {
+  content: "\e6a3";
+}
+
+.icon-mingcheng:before {
+  content: "\e6ed";
+}
+
+.icon-leixing:before {
+  content: "\e614";
+}
+
+.icon-renwu:before {
+  content: "\e63f";
+}
+
+.icon-jihuarenwu:before {
+  content: "\e613";
+}
+
+.icon-renwuguanli:before {
+  content: "\e617";
+}
+
+.icon-config:before {
+  content: "\e916";
+}
+
+.icon-shenqingquanxian:before {
+  content: "\e640";
+}
+
+.icon-cunchufuwu:before {
+  content: "\e69a";
+}
+
+.icon-role_icon:before {
+  content: "\e606";
+}
+
+.icon-bangding:before {
+  content: "\e628";
+}
+
+.icon-cunchujuan:before {
+  content: "\e61e";
+}
+
+.icon-duixiangcunchu:before {
+  content: "\e64d";
+}
+
+.icon-bangding1:before {
+  content: "\e64e";
+}
+
+.icon-bangding2:before {
+  content: "\e65c";
+}
+
+.icon-configuration-management:before {
+  content: "\e610";
+}
+
+.icon-secret:before {
+  content: "\e629";
+}
+
+.icon-ums-role:before {
+  content: "\e601";
+}
+
+.icon-bindrole:before {
+  content: "\e611";
+}
+
+.icon-system_role:before {
+  content: "\e650";
+}
+
+.icon-yumingjiexi:before {
+  content: "\e659";
+}
+
+.icon-yumingliebiao:before {
+  content: "\e661";
+}
+
+.icon-domains:before {
+  content: "\e75e";
+}
+
+.icon-rongqifuwuContainerServi:before {
+  content: "\e8a3";
+}
+
+.icon-Status:before {
+  content: "\e600";
+}
+
+.icon-neicun:before {
+  content: "\e630";
+}
+
+.icon-CPU:before {
+  content: "\e72c";
+}
+
+.icon-kubernetes:before {
+  content: "\ebee";
+}
+
+.icon-jiedianleiquyu:before {
+  content: "\e9d4";
+}
+
+.icon-POD:before {
+  content: "\e620";
+}
+
+.icon-Space:before {
+  content: "\e66a";
+}
+
+.icon-service:before {
+  content: "\e66d";
+}
+
+.icon-yumingshenqing:before {
+  content: "\e69e";
+}
+
+.icon-Fold:before {
+  content: "\e627";
+}
+
+.icon-UnFold:before {
+  content: "\e62f";
+}
+
+.icon-danxingshensuo:before {
+  content: "\e7df";
+}
+
+.icon-deploymentunit:before {
+  content: "\e7d2";
+}
+
+.icon-tiaodu:before {
+  content: "\e6b4";
+}
+
+.icon-state:before {
+  content: "\e626";
+}
+
+.icon-a-quanbusuoyou-03:before {
+  content: "\e97b";
+}
+
+.icon-liebiao:before {
+  content: "\e88f";
+}
+
+.icon-Cluster-management:before {
+  content: "\e72a";
+}
+
+.icon-jiqunguanli:before {
+  content: "\e60c";
+}
+
