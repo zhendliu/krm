@@ -4,6 +4,16 @@
 
 KRM (Kubernetes Resource Manager) 是一个基于Web的Kubernetes资源管理平台，提供直观的图形化界面来管理多个Kubernetes集群中的各种资源。该系统采用前后端分离架构，支持多集群管理、资源监控和操作。
 
+### ⚠️ 项目状态说明
+
+**后端服务**: ✅ 完整实现，包含所有Kubernetes资源的CRUD操作
+**前端界面**: 🚧 部分实现，由于工作繁忙，前端项目只完成了基础框架和部分功能页面
+
+> **致歉**: 由于工作繁忙，前端项目目前只实现了基础框架和部分功能页面。后端API接口已完整实现，可以正常使用。如果您需要完整的前端界面，建议：
+> - 使用Postman等工具直接调用API接口
+> - 或者基于现有的前端框架继续开发
+> - 也可以使用其他Kubernetes管理工具（如kubectl、Lens等）配合后端API使用
+
 ## 技术栈
 
 ### 后端 (Backend)
@@ -14,7 +24,7 @@ KRM (Kubernetes Resource Manager) 是一个基于Web的Kubernetes资源管理平
 - **日志**: Logrus
 - **Kubernetes工具库**: kubeutils
 
-### 前端 (Frontend)
+### 前端 (Frontend) - 🚧 部分实现
 - **框架**: Vue30.34
 - **构建工具**: Vite 4.4**UI组件库**: Element Plus2.30.8
 - **状态管理**: Pinia 20.1**路由**: Vue Router42.4
@@ -70,7 +80,7 @@ KRM (Kubernetes Resource Manager) 是一个基于Web的Kubernetes资源管理平
 
 ```
 krm/
-├── backend/                 # 后端服务
+├── backend/                 # 后端服务 ✅ 完整实现
 │   ├── config/             # 配置文件
 │   ├── controllers/        # 控制器层
 │   │   ├── auth/          # 认证控制器
@@ -86,7 +96,7 @@ krm/
 │   ├── routers/          # 路由定义
 │   ├── utils/            # 工具函数
 │   └── main.go           # 主入口文件
-├── frontend/              # 前端应用
+├── frontend/              # 前端应用 🚧 部分实现
 │   ├── src/
 │   │   ├── api/          # API接口
 │   │   ├── components/   # 公共组件
@@ -104,6 +114,12 @@ krm/
 ### 环境要求
 - Go 120s 16+
 - Kubernetes集群访问权限
+
+### 🔐 默认登录凭据
+- **用户名**: `kunyu`
+- **密码**: `kunyu123`
+
+> **注意**: 这些凭据是MD5加密存储的，如需修改请参考配置说明部分。
 
 ### 后端启动
 
@@ -126,7 +142,7 @@ go mod download
 go run main.go
 ```
 
-### 前端启动
+### 前端启动 🚧 部分功能
 
 1 进入前端目录
 ```bash
